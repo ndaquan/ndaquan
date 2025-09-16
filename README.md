@@ -1,5 +1,9 @@
 <!-- Profile README — đổi your_username, tên, link mạng xã hội cho đúng -->
-<h1 align="center">Hi, I'm Quan 👋</h1>
+<p align="center">
+  I am A 3rd-year Computer Science student at <b>FPT University</b>.<br/>
+  Passionate about software development, web & mobile technologies, and always eager to learn new skills.<br/>
+  I enjoy turning ideas into real projects and collaborating with others to create impactful solutions 🚀
+</p>
 
 ## 💻 Tech Stack
 
